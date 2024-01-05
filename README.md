@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>&nbsp
     <a href="https://www.instagram.com/juhee_leeee">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
-<br>
+<br><br>
     
 ## 🛠 Once I've used 🛠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
