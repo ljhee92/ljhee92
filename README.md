@@ -7,9 +7,8 @@
         <img src="https://img.shields.io/badge/
         Tistory-000000?style=flat&logo=Tistory&logoColor=white"> 
     </a>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=ju-heee&theme=default)](https://ju-heee.tistory.com/)
 </div><br>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ju-heee&theme=default)](https://ju-heee.tistory.com/)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
