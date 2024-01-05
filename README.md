@@ -6,6 +6,7 @@
     <a href="https://ju-heee.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a>
 </div><br>
+
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ju-heee&theme=default)](https://ju-heee.tistory.com/)
 
 ## 📞 Contact 📞
@@ -14,6 +15,7 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>&nbsp
     <a href="https://www.instagram.com/juhee_leeee">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>&nbsp
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljhee92%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🛠 Once I've used 🛠
@@ -21,7 +23,7 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
     </div>
      <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
