@@ -25,6 +25,7 @@
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
     </div>
+    
      <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
     <div>
@@ -36,6 +37,6 @@
 </div>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljhee92&exclude_repo=ljhee92.github.io&layout=compact&theme=tokyonight"/></a>
-<a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ljhee92&theme=tokyonight&show_icons=true" width="42%"/></a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljhee92&exclude_repo=ljhee92.github.io&layout=compact&theme=tokyonight"/></a>
