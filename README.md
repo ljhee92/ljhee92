@@ -10,23 +10,33 @@
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:ljhee92.sist@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>&nbsp
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
     <a href="https://www.instagram.com/juhee_leeee">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
 <br><br>
     
 ## 🛠 Once I've used 🛠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
+    <!-- Platforms & Languages -->
+    <p><strong>Platforms & Language</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=Oracle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
     </div><br>
      <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"/>&nbsp
-        <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/>     
+        <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
     </div>
 </div>
 <br><br>
