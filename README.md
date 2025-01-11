@@ -19,6 +19,8 @@
     <p><strong>Platforms & Language</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/>
