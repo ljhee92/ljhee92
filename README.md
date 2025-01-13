@@ -37,4 +37,4 @@
 #
 <br />
 
-![juhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljhee92&show_icons=true&theme=dracula)
+![juhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljhee92&show_icons=true&theme=dracula&number_format=long)
