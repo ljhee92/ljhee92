@@ -46,6 +46,7 @@
 
 <br>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=ljhee92&theme=tokyonight&show_icons=true" width="42%"/></a>&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=ljhee92&theme=tokyonight&show_icons=true" width="50%"/></a>
+<br>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljhee92&exclude_repo=ljhee92.github.io&layout=compact&theme=tokyonight"/></a>
