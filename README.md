@@ -38,3 +38,11 @@
 <br />
 
 ![juhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljhee92&show_icons=true&theme=dracula&number_format=long)
+&nbsp;
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ljhee92&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/ljhee92"
+      width="400"
+      height="200"
+    />
+</a>
