@@ -11,15 +11,21 @@
 
 <br />
 
-![juhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljhee92&show_icons=true&theme=dark&number_format=long)
-&nbsp;
+<div style="display: flex; align-items: center;">
+<a href="https://github.com/ljhee92">
+  <img 
+      src="https://github-readme-stats.vercel.app/api?username=ljhee92&show_icons=true&theme=dark&card_width=100&number_format=long"
+      height="180" 
+  />
+</a>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ljhee92&utm_content=farm">
     <img
-      src="https://render.gitanimals.org/farms/ljhee92"
-      width="360"
-      height="160"
+        src="https://render.gitanimals.org/farms/ljhee92"
+        width="380"
+        height="180"
     />
 </a>
+</div>
 
 <br />
 
